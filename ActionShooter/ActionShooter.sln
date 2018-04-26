@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionShooter.Plugins", "ActionShooter.Plugins.csproj", "{060F16E3-FC9B-5396-731F-AF54F98DB9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionShooter", "ActionShooter.csproj", "{9962EF15-2551-69ED-AD8B-962DCCF009FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionShooter.Editor.Plugins", "ActionShooter.Editor.Plugins.csproj", "{2E94D818-2079-5BB9-B9C7-2B8B1E4D0722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060F16E3-FC9B-5396-731F-AF54F98DB9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060F16E3-FC9B-5396-731F-AF54F98DB9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060F16E3-FC9B-5396-731F-AF54F98DB9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060F16E3-FC9B-5396-731F-AF54F98DB9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9962EF15-2551-69ED-AD8B-962DCCF009FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9962EF15-2551-69ED-AD8B-962DCCF009FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9962EF15-2551-69ED-AD8B-962DCCF009FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9962EF15-2551-69ED-AD8B-962DCCF009FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E94D818-2079-5BB9-B9C7-2B8B1E4D0722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E94D818-2079-5BB9-B9C7-2B8B1E4D0722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E94D818-2079-5BB9-B9C7-2B8B1E4D0722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E94D818-2079-5BB9-B9C7-2B8B1E4D0722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
